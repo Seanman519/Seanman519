@@ -1,14 +1,11 @@
-### Hi there 👋
-### Welcome to my portfolio
+
 
 - 🔭 I’m currently working on Reinforcement Learning
-- 🌱 I’m currently learning Machine Learning as a whole
 - 👯 I’m looking to collaborate on Dev projects that i can get my devy hands on..
-- 🤔 I’m looking for help with anything machine learning
-- 💬 Ask me about Hacking, life....debugging i guess
+- 🤔 Curious on anything machine learning and AI
+- 💬 Ask me about Hacking, development & debugging
 - 📫 How to reach me: *Github*, *Email - seanman519@gmail.com*
-- 😄 Pronouns: ...
-- ⚡ Fun fact: The sky is blue....
+
 
 
 
