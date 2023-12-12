@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-
-**Seanman519/Seanman519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to my portfolio
 
 - 🔭 I’m currently working on Reinforcement Learning
 - 🌱 I’m currently learning Machine Learning as a whole
