@@ -11,17 +11,17 @@ My Codetime 💻 :
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 
-<!--
-- 🔭 I’m currently working on Reinforcement Learning
-- 👯 I’m looking to collaborate on Dev projects that i can get my devy hands on..
-- 🤔 Curious on anything machine learning and AI
-- 💬 Ask me about Hacking, development & debugging
-- 📫 How to reach me: *Github*, *Email - seanman519@gmail.com*
--->
+<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Seanman519/trader" title="trader"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Seanman519&repo=trader&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Seanman519/RLBOT" title="RLBOT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Seanman519&repo=RLBOT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Seanman519/T-SaaS" title="T-SaaS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Seanman519&repo=T-SaaS&theme=react&border_color=61dafb&border_radius=10"></a>
+<br/><br/><br/><br/><br/><br/>
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -33,6 +33,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
+
+
+
+  
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanman519&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
@@ -44,23 +48,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Seanman519/trader" title="trader"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Seanman519&repo=trader&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Seanman519/RLBOT" title="RLBOT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Seanman519&repo=RLBOT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Seanman519/T-SaaS" title="T-SaaS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Seanman519&repo=T-SaaS&theme=react&border_color=61dafb&border_radius=10"></a>
- <!-- <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
- <!-- <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--<a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://portfolio.hackmebytes.com" title="Check Portfolio-site">🔎 Show More 🔍</a>
