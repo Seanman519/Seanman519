@@ -1,4 +1,7 @@
 
+[![wakatime](https://wakatime.com/badge/user/018c28c7-ac68-4b26-abdc-449cb2652259.svg)](https://wakatime.com/@018c28c7-ac68-4b26-abdc-449cb2652259)
+
+
 
 - 🔭 I’m currently working on Reinforcement Learning
 - 👯 I’m looking to collaborate on Dev projects that i can get my devy hands on..
