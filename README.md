@@ -6,7 +6,7 @@
 My Codetime 💻 : 
 [![wakatime](https://wakatime.com/badge/user/018c28c7-ac68-4b26-abdc-449cb2652259.svg)](https://wakatime.com/@018c28c7-ac68-4b26-abdc-449cb2652259)
 
-<h1>👋, I'm Sean!<h1>
+👋, I'm Sean!
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
